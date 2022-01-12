@@ -1,0 +1,19 @@
+{
+  "name": "@cloudwu01/exercise-publish-package",
+  "version": "1.0.0",
+  "description": "Complete this to finish excerise",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudwu01/exercise-publish-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloudwu01/exercise-publish-package/issues"
+  },
+  "homepage": "https://github.com/cloudwu01/exercise-publish-package#readme"
+}
